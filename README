@@ -1,8 +1,8 @@
 VR开发技术讨论群： 218131948
-当前VR技术方案：
-1、Unity，VR主流技术方案；
-	DIVE：http://www.durovis.com/sdk.html
+当前VR产品技术方案：
+1、Unity，是VR主流技术开发方案；
 	Cardboard，Oculus都有unity的sdk；
+	DIVE：是unity的插件，http://www.durovis.com/sdk.html
 2、其他游戏引擎，UE4,等；
 3、opengl，OGRE等基础做起；
 
